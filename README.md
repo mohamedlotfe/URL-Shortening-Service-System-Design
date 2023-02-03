@@ -1,11 +1,20 @@
 # URL-Shortening-Service-System-Design
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="http://yoursite.com/the.pdf" type="application/pdf">
+        <p>Please download the PDF to view it: <a href="https://github.com/mohamedlotfe/URL-Shortening-Service-System-Design/blob/main/SD_Challenge_solution_Presentation.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 1-  Case Study 
 - An e-commerce startup has a very original idea, they want to create a URL shortening service. 
 - A visitor enters a very long URL into a field and gets a shortened version of it. 
 - Whenever the shortened version is used to request a web resource, the service will redirect to the original URL
 ￼
- https://medium.com/@sandeep4.verma
-Short URL : https://tinyurl.com/3sh2ps6v
+- https://medium.com/@sandeep4.verma
+- Short URL : https://tinyurl.com/3sh2ps6v
+
+
 
 2- System Requirements
 
